@@ -1,0 +1,27 @@
+body {
+  background-color: #c6b69d;
+}
+
+h1 {
+  font-family: Arial, strong;
+}
+h4 {
+  font-family: Arial, strong;
+}
+p {
+  font-family: Georgia;
+}
+
+.portfolio-panel {
+  border: solid 4px #292827;
+  background-color: #e0d9c1;
+  text-align: left;
+  max-width: 60%;
+  display: inline-block;
+  margin: 20%;
+  height: 200px;
+}
+
+.portfolio-img {
+  max-width: 100%;
+}
